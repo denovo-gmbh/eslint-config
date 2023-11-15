@@ -1,6 +1,6 @@
 {
   "name": "@denovo/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A common eslint configuration for projects following the Denovo code guidelines.",
   "main": "index.js",
   "repository": {
