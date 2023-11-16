@@ -1,4 +1,4 @@
-#  @denovo/eslint-config
+# 👾 @denovo/eslint-config
 
 A [ESLint](https://eslint.org) [configuration](https://eslint.org/docs/latest/use/getting-started)
 for projects following the [Denovo](https://denovo.at/) coding guidelines.
@@ -20,7 +20,7 @@ Specify `eslintConfig` property in `package.json`:
     "extends": "@denovo/eslint-config"
   },
   "devDependencies" : {
-    "@denovo/eslint-config": "^1.0.0"
+    "@denovo/eslint-config": "^1.0.1"
   }
 }
 ```
